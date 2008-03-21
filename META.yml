@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                BS-Event
-version:             0.2
+version:             0.3
 abstract:            A class that provides an event callback interface
 license:             perl
 author:              
